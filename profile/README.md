@@ -1,10 +1,18 @@
-The agreeable organization is focused on providing simple tools that make building p2p apps simple. 
+# Welcome to Agreeable! 👋
 
-We try and keep the difficult parts of p2p hidden behind very friendly apis. We give full credit to the [Holepunch Team](https://github.com/holepunchto/) full credit
-for the p2p primitives we use. We just try and put a nice face on those primitives and allow for building quick, useful things.
+We're all about making peer-to-peer applications simple and friendly! Our mission is to provide easy-to-use tools that make P2P development a joy.
 
-Currently our main offerings are the following:
+We take the complex parts of P2P networking and wrap them in developer-friendly APIs. Standing on the shoulders of giants, we build upon the excellent P2P primitives created by the [Holepunch Team](https://github.com/holepunchto/). Our goal is to make these powerful tools more accessible and quick to implement.
 
- - [Breakout Room](https://github.com/agree-able/room) 🤝 A lightweight peer-to-peer chat system designed for bot-to-bot communication.
- - [RPC](https://github.com/agree-able/rpc) 🤝 Type-safe P2P RPC that just works.
- - [UI](https://github.com/agree-able/ui) 🤝 An agreeable api explorer. Like swagger for p2p services.
+## Our Tools 🛠️
+
+Here's what we're offering to make your P2P development experience more agreeable:
+
+- [Breakout Room](https://github.com/agree-able/room) 🤝 
+  A lightweight peer-to-peer chat system perfect for bot-to-bot communication
+
+- [RPC](https://github.com/agree-able/rpc) 🚀 
+  Type-safe P2P RPC that "just works"
+
+- [UI](https://github.com/agree-able/ui) 🎨 
+  An agreeable API explorer (think Swagger, but for P2P services!)

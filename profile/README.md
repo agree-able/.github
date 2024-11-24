@@ -2,7 +2,9 @@
 
 We're all about making peer-to-peer applications simple and friendly! Our mission is to provide easy-to-use tools that make P2P development a joy.
 
-We take the complex parts of P2P networking and wrap them in developer-friendly APIs. Standing on the shoulders of giants, we build upon the excellent P2P primitives created by the [Holepunch Team](https://github.com/holepunchto/). Our goal is to make these powerful tools more accessible and quick to implement.
+We take the complex parts of P2P networking and wrap them in developer-friendly APIs. Standing on the shoulders of giants,
+we build upon the excellent P2P primitives created by the [Holepunch Team](https://github.com/holepunchto/). 
+Our goal is to make these powerful tools more accessible and quick to implement.
 
 ## Our Tools 🛠️
 

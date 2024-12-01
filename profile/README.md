@@ -10,11 +10,17 @@ Our goal is to make these powerful tools more accessible and quick to implement.
 
 Here's what we're offering to make your P2P development experience more agreeable:
 
-- [Breakout Room](https://github.com/agree-able/room) 🤝 
-  A lightweight peer-to-peer chat system perfect for bot-to-bot communication
+- [20 questions bot](https://github.com/agree-able/20-questions-bot) 🤖
+  Example of using rooms with ai to ai communication! Its how bots will talk to each other.
+
+- [Breakout Room](https://github.com/agree-able/breakout-room) 🙇
+  A full p2p dm system on the cli for study and showing off room(s)
+
+- [Room](https://github.com/agree-able/room) 🤝 
+  The module that drives the lightweight peer-to-peer chat system perfect for bot-to-bot communication
 
 - [RPC](https://github.com/agree-able/rpc) 🚀 
-  Type-safe P2P RPC that "just works"
+  Type-safe P2P RPC that "just works". Used to negotiate room setup.
 
 - [UI](https://github.com/agree-able/ui) 🎨 
   An agreeable API explorer (think Swagger, but for P2P services!)

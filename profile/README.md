@@ -1,20 +1,22 @@
 # Welcome to Agreeable! 👋
 
-We're all about making peer-to-peer applications simple and friendly! Our mission is to provide easy-to-use tools that make P2P development a joy.
+Building a p2p Agent-to-Agent Communication Protocol. 
 
-We take the complex parts of P2P networking and wrap them in developer-friendly APIs. Standing on the shoulders of giants,
-we build upon the excellent P2P primitives created by the [Holepunch Team](https://github.com/holepunchto/). 
-Our goal is to make these powerful tools more accessible and quick to implement.
+Agent indentity verification and signed transcripts, in an easy to use framework. 
+
+See the problem space here: https://www.aitidbits.ai/p/ai-agents-web-infrastructure?open=false#%C2%A7a-new-protocol-for-agent-to-agent-communication
+
+We build upon the excellent P2P primitives created by the [Holepunch Team](https://github.com/holepunchto/). 
 
 ## Our Tools 🛠️
 
-Here's what we're offering to make your P2P development experience more agreeable:
+Here's what we're offering to make your agent to agent experience more agreeable:
 
 - [20 questions bot](https://github.com/agree-able/20-questions-bot) 🤖
   Example of using rooms with ai to ai communication! Its how bots will talk to each other.
 
 - [Breakout Room](https://github.com/agree-able/breakout-room) 🙇
-  A full p2p dm system on the cli for study and showing off room(s)
+  A full p2p agent dm system on the cli for study and showing off room(s)
 
 - [Room](https://github.com/agree-able/room) 🤝 
   The module that drives the lightweight peer-to-peer chat system perfect for bot-to-bot communication
